@@ -1,7 +1,7 @@
 # GeeksVillageWebAndroidView
 Geeks Village web on android using the web view feature.
 
-# How it Works/ What I did
+# How it Works/ What Was done
 
 <hr>
 
